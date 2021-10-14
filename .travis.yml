@@ -23,4 +23,4 @@ deploy:
   edge: true 
   app: devopslab-abmoraes
   on:
-      branch: main
+    branch: main
